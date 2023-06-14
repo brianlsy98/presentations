@@ -1,4 +1,4 @@
-# NetLaygo
+# 2-layer mazesolver
 
 - Training RL agent for 2D metal routings.
 - Codes are available at my private github repo.
